@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Development**
 
-- 🌱 I’m currently learning **React.js , Machine Learning**
+- 🌱 I’m currently learning **React.js ,Node.js, Machine Learning**
 
-- 👯 I’m looking to collaborate on **Open Source or any projects**
+- 👯 I’m looking to collaborate on **Open Source or any other projects**
 
-- 🤝 I’m looking for help with **DSA ,development and AI**
+- 🤝 I’m looking for help with **DSA ,Development and AI**
 
 - 📫 How to reach me **vineetmadan11@gmail.com**
 
