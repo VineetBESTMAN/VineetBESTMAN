@@ -23,13 +23,13 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/weneatbruh" target="blank"><img src="https://img.shields.io/twitter/follow/weneatbruh?logo=twitter&style=for-the-badge" alt="weneatbruh" /></a> </p>
 
-- 🔭 I’m currently working on **Development**
+- 🔭 I’m currently working on **Full-stack,AI,Web3**
 
-- 🌱 I’m currently learning **React.js ,Node.js, Machine Learning**
+- 🌱 I’m currently learning **Typescript,Node,Machine Learning**
 
-- 👯 I’m looking to collaborate on **Open Source or any other projects**
+- 👯 I’m looking to collaborate on **Open Source contribution/projects**
 
-- 🤝 I’m looking for help with **DSA ,Development and AI**
+- 🤝 I’m looking for help with **DSA ,Web3 and AI**
 
 - 📫 How to reach me **vineetmadan11@gmail.com**
 
