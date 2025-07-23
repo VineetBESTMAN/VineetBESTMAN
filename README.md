@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **vineetmadan11@gmail.com**
 
-- 📄 Know about my experiences [Resume/CV](https://drive.google.com/file/d/12Vy9Wu00JYWw-2mZGKInnutIElvvUlfs/view?usp=drive_link)
+- 📄 Know about my experiences [Resume/CV](https://drive.google.com/file/d/1O-3-MhXkahAs4NxCFKjlvERfZP78oyqW/view?usp=sharing)
 
 - ⚡ Fun fact **I am into fitness,sports and Finance. I am shy and kind of introvert.**
 
