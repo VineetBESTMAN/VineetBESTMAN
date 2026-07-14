@@ -23,17 +23,17 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/weneatbruh" target="blank"><img src="https://img.shields.io/twitter/follow/weneatbruh?logo=twitter&style=for-the-badge" alt="weneatbruh" /></a> </p>
 
-- 🔭 I’m currently working on **Full-stack,AI,Web3**
+- 🔭 I’m currently working on **Full-stack,AI**
 
 - 🌱 I’m currently learning **Typescript,Node,Machine Learning**
 
 - 👯 I’m looking to collaborate on **Open Source contribution/projects**
 
-- 🤝 I’m looking for help with **DSA ,Web3 and AI**
+- 🤝 I’m looking for help with **AI Engineering roles**
 
 - 📫 How to reach me **vineetmadan11@gmail.com**
 
-- 📄 Know about my experiences [Resume/CV](https://drive.google.com/file/d/1O-3-MhXkahAs4NxCFKjlvERfZP78oyqW/view?usp=sharing)
+- 📄 Know about my experiences [Resume/CV](https://drive.google.com/file/d/1rNwU9LXuwjRfJgYPiy8BlEj4MLWDnPY4/view?usp=sharing)
 
 - ⚡ Fun fact **I am into fitness,sports and Finance. I am shy and kind of introvert.**
 
