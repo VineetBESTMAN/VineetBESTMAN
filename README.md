@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [Resume/CV](https://drive.google.com/file/d/1rNwU9LXuwjRfJgYPiy8BlEj4MLWDnPY4/view?usp=sharing)
 
-- ⚡ Fun fact **I am into fitness, sports and Finance. I am shy and kind of ambivert.**
+- ⚡ Fun fact **I am into fitness, sports and Finance. I am shy and kind of introvert.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
