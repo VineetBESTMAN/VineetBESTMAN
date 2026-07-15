@@ -17,7 +17,7 @@
 - 🤝 I’m looking for help with **AI Engineering roles**
 - 📫 How to reach me **vineetmadan11@gmail.com**
 - 📄 Know about my experiences [Resume/CV](https://drive.google.com/file/d/1rNwU9LXuwjRfJgYPiy8BlEj4MLWDnPY4/view?usp=sharing)
-- ⚡ Fun fact **I am into fitness, sports and Finance. I am shy and kind of introvert.**
+- ⚡ Fun fact **I am into fitness, sports and Finance. I am shy and kind of ambivert.**
 
 <br>
 
