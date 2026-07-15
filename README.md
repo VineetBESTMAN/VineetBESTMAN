@@ -80,7 +80,7 @@
 <!-- Fixed Layout for Stats Cards -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vineetbestman&theme=dark" alt="Top Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vineetbestman&theme=dark" alt="GitHub Stats" />
+<!--  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vineetbestman&theme=dark" alt="GitHub Stats" /> -->
 </div>
 
 <br>
