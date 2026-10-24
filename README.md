@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/EMAIL-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="https://drive.google.com/file/d/1rNwU9LXuwjRfJgYPiy8BlEj4MLWDnPY4/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/15SPP9lXvHw9wud9jGacnk_KoCHs27hb5/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/RESUME-VIEW_CV-00A98F?style=for-the-badge&logo=readthedocs&logoColor=white" />
   </a>
 
@@ -107,9 +107,7 @@
 
 - 📍 **[Vehicle Movement Tracking on Google Maps](https://github.com/VineetBESTMAN/Vehicle-movement-tracking-on-google-map)**  
   A real-time location and vehicle movement tracking application with map-based visualization.
-
-- 🔌 **[Flutter Bluetooth Arduino App](https://github.com/VineetBESTMAN/Flutter-BT-arduino-app-)**  
-  A mobile and IoT project integrating **Flutter, Bluetooth communication and Arduino hardware**.
+  
 
 <br>
 
