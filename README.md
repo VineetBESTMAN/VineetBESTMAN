@@ -34,7 +34,6 @@
 - ⚡ Fun fact **I am into fitness, badminton, sports and finance.**
 
 <br>
-
 <h3 align="left">🚀 Featured Projects:</h3>
 
 - 🔐 **[Secure Agentic AI Work OS](https://github.com/VineetBESTMAN/secure-agentic-work-os)**  
@@ -50,7 +49,6 @@
   A real-time location and vehicle movement tracking application with map-based visualization.
 
 <br>
-
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
