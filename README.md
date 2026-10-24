@@ -49,9 +49,6 @@
 - 📍 **[Vehicle Movement Tracking on Google Maps](https://github.com/VineetBESTMAN/Vehicle-movement-tracking-on-google-map)**  
   A real-time location and vehicle movement tracking application with map-based visualization.
 
-- 🔌 **[Flutter Bluetooth Arduino App](https://github.com/VineetBESTMAN/Flutter-BT-arduino-app-)**  
-  A mobile and IoT project integrating **Flutter, Bluetooth communication and Arduino hardware**.
-
 <br>
 
 <h3 align="left">Connect with me:</h3>
