@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vineet Madan</h1>
 
-<h3 align="center">AI Engineer & Full-Stack Developer; Agentic AI</h3>
+<h3 align="center">AI Engineer & Full-Stack Developer </h3>
 
 <p align="center">
-  I build intelligent systems that go beyond demos — Agentic AI, RAG, Computer Vision, and full-stack AI products.
+  I build intelligent systems that go beyond demos using Agentic AI, RAG, Computer Vision, and full-stack AI products.
 </p>
 
 <p align="center">
@@ -88,7 +88,7 @@
 
 - 📫 How to reach me **vineetmadan11@gmail.com**
 
-- 📄 Know about my experiences [Resume/CV](https://drive.google.com/file/d/1rNwU9LXuwjRfJgYPiy8BlEj4MLWDnPY4/view?usp=sharing)
+- 📄 Know about my experiences [Resume/CV](https://drive.google.com/file/d/15SPP9lXvHw9wud9jGacnk_KoCHs27hb5/view?usp=drive_link)
 
 - ⚡ Fun fact **I am into fitness, badminton, sports and finance.**
 
